@@ -1,0 +1,57 @@
+[
+  {
+    "name": "random_center_n06_p2",
+    "customers": 6,
+    "stations": 2,
+    "total_demand": 45,
+    "vehicle_capacity": 13.0,
+    "station_capacity": 20.0,
+    "coverage_radius": 22.0,
+    "battery": 203.0,
+    "max_small_gvs": 5
+  },
+  {
+    "name": "random_center_n08_p2",
+    "customers": 8,
+    "stations": 2,
+    "total_demand": 60,
+    "vehicle_capacity": 17.0,
+    "station_capacity": 20.0,
+    "coverage_radius": 22.0,
+    "battery": 213.0,
+    "max_small_gvs": 5
+  },
+  {
+    "name": "random_corner_n10_p3",
+    "customers": 10,
+    "stations": 3,
+    "total_demand": 81,
+    "vehicle_capacity": 23.0,
+    "station_capacity": 20.0,
+    "coverage_radius": 22.0,
+    "battery": 224.0,
+    "max_small_gvs": 5
+  },
+  {
+    "name": "cluster_corner_n12_p3",
+    "customers": 12,
+    "stations": 3,
+    "total_demand": 91,
+    "vehicle_capacity": 26.0,
+    "station_capacity": 20.0,
+    "coverage_radius": 22.0,
+    "battery": 185.0,
+    "max_small_gvs": 5
+  },
+  {
+    "name": "random_center_n14_p4",
+    "customers": 14,
+    "stations": 4,
+    "total_demand": 128,
+    "vehicle_capacity": 36.0,
+    "station_capacity": 20.0,
+    "coverage_radius": 22.0,
+    "battery": 174.0,
+    "max_small_gvs": 5
+  }
+]

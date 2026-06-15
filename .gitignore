@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PowerPoint temporary lock files
+~$*
+
+# Local visual QA renders generated from the final deck
+results/07_presentation/ppt_render_check/
+
+# Superseded/local presentation drafts and source paper copies
+LRP_PS_Exact_Methods_Presentation.pptx
+Branch-and-Price Algorithm for Location-Routing Problems with Pick.pptx
